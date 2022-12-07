@@ -1,0 +1,38 @@
+.landing-page-container {
+    background-image: url("../images/split.jpg");
+    max-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.landing-page-title {
+    color: white;
+    font-size: 10vh;
+}
+
+.landing-page-subtitle {
+    color: white;
+    font-size: 7vh;
+}
+
+.landing-page-learn-more-container {
+    padding-top: 5%;
+    display: inline-flex;
+    text-align: center;
+}
+
+.landing-page-forward-arrow {
+    color: white !important;
+    height: 10vh !important;
+    width: 10vw !important;
+}
+
+.landing-page-learn-more {
+    color: white;
+    font-size: 7vh;
+}
+
+.landing-page-air-quality-image {
+    height: 60%;
+}
